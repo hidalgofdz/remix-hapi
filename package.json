@@ -1,0 +1,23 @@
+{
+  "name": "remix-hapi",
+  "version": "0.0.1",
+  "description": "Hapi server request handler for Remix",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidalgofdz/remix-hapi.git"
+  },
+  "keywords": [
+    "remix",
+    "hapi"
+  ],
+  "author": "Hidalgo Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hidalgofdz/remix-hapi/issues"
+  },
+  "homepage": "https://github.com/hidalgofdz/remix-hapi#readme"
+}
